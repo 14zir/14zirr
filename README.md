@@ -2,7 +2,7 @@
 )
 )
 <h1 align="center">Merhaba 👋, ben 14zir</h1>
-<h3 align="center">Hindistan'dan tutkulu bir ön uç geliştiricisi</h3>
+<h3 align="center">Türkiye'den tutkulu bir ön uç geliştiricisi</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=14zir&label=Profile%20views&color=0e75b6&style=flat" alt="14zir" /> </p>
 
